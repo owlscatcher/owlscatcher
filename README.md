@@ -1,21 +1,27 @@
-### Привет 👋 меня зовут Александр!
+### 👋 Hi! My name is Alexandr. Nice to meet you!
 
-- 🔭 В данный момент я работаю в [Научно-исследовательском Институте Атомных Реакторов](http://niiar.ru/)
-- ⚡ Из интересного: разработал кросплатформенную автоматизированную систему радиационного контроля.
-- :muscle: hard-skills: .netcore, mssql / postgreSQL, linux, python.
-- 💬 Связаться со мной: [:email:](mailto:al.ev.ves@gmail.com)
+- 🔭 I currently working as an engineer at the [Research Institute of Atomic Reactors](http://niiar.ru/)
+- ⚡ From the interesting: Developed a cross-platform automated radiation monitoring system (I will publish the sources soon).
+- :muscle: hard-skills: C# / netcore, linux, mssql / postgreSQL, python.
+- 💬 Contact to me: <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
 
-<!--
-**owlscatcher/owlscatcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎸 Music
+ - Besides coding, I also write music. You can listen to some things [here](https://owlscatcher.bandcamp.com/).
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Editor-VIM-informational?style=flat-square&logo=vim&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat-square&logo=ruby&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Code-.netcore-informational?style=flat-square&logo=dotnet&logoColor=white&color=5194f0)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Personal stats
+<p align="center">
+  <table>
+    <tr>
+    <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=owlscatcher&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+    <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=owlscatcher&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+    </tr>   
+  </table>
+</p>
