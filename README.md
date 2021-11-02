@@ -3,7 +3,7 @@
 - 🔭 I currently working as an engineer at the [Research Institute of Atomic Reactors](http://niiar.ru/)
 - ⚡ From the interesting: Developed a cross-platform automated radiation monitoring system (I will publish the sources soon).
 - :muscle: hard-skills: C# / netcore, linux, mssql / postgreSQL, python.
-- 💬 Contact to me: <a href="https://mailhide.io/en/e/gzaiNqU4"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
+- 💬 Contact to me: <a href="https://mailhide.io/e/RgbGUFyo" target="_blank"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
 
 ### 🎸 Music
  - Besides coding, I also write music. You can listen to some things [here](https://owlscatcher.bandcamp.com/).
