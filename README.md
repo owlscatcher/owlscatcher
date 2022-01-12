@@ -6,7 +6,7 @@
 - 💬 Contact to me: <a href="https://mailhide.io/e/RgbGUFyo"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
 
 ### 🎸 Music
- - Besides coding, I also write music. You can listen to some things [here](https://owlscatcher.bandcamp.com/).
+ - Besides coding, I also write music. You can listen to some things [here](https://band.link/KzJoO).
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
