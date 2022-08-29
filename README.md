@@ -4,6 +4,7 @@
 - ⚡ From the interesting: Developed a cross-platform automated radiation monitoring system (I will publish the sources soon).
 - :muscle: hard-skills: C# / netcore, linux, mssql / postgreSQL, python.
 - 💬 Contact to me: <a href="https://mailhide.io/e/RgbGUFyo"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
+- Visit my personal page <a href="https://owlscatcher.github.io/" target="_blank">owlscatcher.github.io</a>
 
 ### 🎸 Music
  - Besides coding, I also write music. You can listen to some things [here](https://band.link/KzJoO).
