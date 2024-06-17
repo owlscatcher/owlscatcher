@@ -1,26 +1,19 @@
 ### 👋 Hi! My name is Alexandr. Nice to meet you!
 
 - 🔭 I currently working as an engineer at the [Research Institute of Atomic Reactors](http://niiar.ru/)
-- ⚡ From the interesting: Developed a cross-platform automated radiation monitoring system (I will publish the sources soon).
-- :muscle: hard-skills: C#, ruby & rails, JS & React, linux, mssql / postgreSQL, python
+- ⚡ From the interesting: Developed a [cross-platform automated radiation monitoring system](https://github.com/digital-armstrong/)
+- :muscle: hard-skills: ruby & rails, JS & React, C#, postgreSQL, python
 - 💬 Contact to me: <a href="https://mailhide.io/e/RgbGUFyo"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a>
 - Visit my personal page <a href="https://owlpaw.com/" target="_blank">owlpaw.com</a>
 
-### 🎸 Music
- - Besides coding, I also write music. You can listen to some things [here](https://band.link/KzJoO).
-
 ### 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=5194f0&bgcolor=110d17)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat-square&logo=postgreSQL&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Editor-VIM-informational?style=flat-square&logo=vim&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Ruby%20on%20Rails-informational?style=flat-square&logo=rubyonrails&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-.netcore-informational?style=flat-square&logo=dotnet&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat-square&logo=javascript&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat-square&logo=react&logoColor=white&color=5194f0)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=701516)
+![](https://img.shields.io/badge/Ruby%20on%20Rails-informational?style=flat-square&logo=rubyonrails&logoColor=white&color=701516)
+![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=178600)
+![](https://img.shields.io/badge/netcore-informational?style=flat-square&logo=dotnet&logoColor=white&color=178600)
+![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=black&color=f1e05a)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgreSQL&logoColor=white&color=5194f0)
 
 ### 📈 Personal stats
 <p align="center">
