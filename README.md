@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=178600)
 ![](https://img.shields.io/badge/netcore-informational?style=flat-square&logo=dotnet&logoColor=white&color=178600)
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat-square&logo=react&logoColor=black&color=f1e05a)
-![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=5194f0)
+![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3572a5)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat-square&logo=postgreSQL&logoColor=white&color=5194f0)
 
 ### 📈 Personal stats
