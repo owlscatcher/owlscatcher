@@ -1,4 +1,4 @@
-### 👋 Hi! My name is Alexandr. Nice to meet you!
+### 👋 Hi! My name is Alexander. Nice to meet you!
 
 - 🔭 I currently working as an engineer at the [Research Institute of Atomic Reactors](http://niiar.ru/)
 - ⚡ From the interesting: Developed a [cross-platform automated radiation monitoring system](https://github.com/digital-armstrong/)
