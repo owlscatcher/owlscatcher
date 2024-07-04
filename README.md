@@ -4,7 +4,8 @@
 - ⚡ From the interesting: Developed a [cross-platform automated radiation monitoring system](https://github.com/digital-armstrong/)
 - :muscle: hard-skills: ruby & rails, JS & React, C#, postgreSQL, python
 - 💬 Contact to me: <a href="https://mailhide.io/e/RgbGUFyo"><img src="https://img.shields.io/badge/email-reveal-2a8?style=flat-square&logo=gmail&logoColor=white&color=5194f0" /></a> <a href="https://t.me/alevves"><img src="https://img.shields.io/badge/telegram-informational?style=flat-square&logo=telegram&logoColor=white&color=5194f0" /></a>
-- Visit my personal page <a href="https://owlpaw.com/" target="_blank">owlpaw.com</a>
+- 🌐 Visit my personal page <a href="https://owlpaw.com/" target="_blank">owlpaw.com</a>
+- 📋 Check my CV: <a href="https://owlpaw.com/cv" target="_blank">owlpaw.com/cv</a>
 
 ### 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=701516)
